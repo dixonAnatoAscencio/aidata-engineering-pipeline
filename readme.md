@@ -34,11 +34,3 @@ de consulta y enriquecimiento con modelos de lenguaje.
 - **Text-to-SQL**: conversión de preguntas en lenguaje natural a consultas SQL
   para facilitar el acceso autoservicio a la información.
 
-## Objetivos
-
-- Centralizar y gobernar datos de múltiples fuentes.
-- Mantener pipelines reproducibles, automatizados y observables.
-- Separar claramente la ingesta, transformación y presentación de los datos.
-- Aplicar controles de acceso mediante IAM.
-- Facilitar el análisis mediante consultas SQL y lenguaje natural.
-- Incorporar capacidades de IA sin perder trazabilidad sobre los datos utilizados.
